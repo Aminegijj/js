@@ -13,3 +13,5 @@ console.table({
   accountCity: accountCity,
   accountState: accountState,
 });
+
+//pefer not to use "var" because of issue in block scopr anfd fundctional scope
