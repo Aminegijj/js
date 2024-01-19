@@ -26,6 +26,6 @@ console.log(booleanIsloggedIn);
 // "amit" => true
 
 let aNumber   = 22
-let stringNumber  = String(someNumber)
+let stringNumber  = String(aNumber)
 console.log(stringNumber)
 console.log(typeof stringNumber);
